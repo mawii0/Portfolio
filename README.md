@@ -11,3 +11,8 @@ most proud apps/projects as a coder. Lastly, a little story of mine or an "About
 as my own roadmap/guide which keeps me humble of what I have done and learned throughout my CS years. And, that
 is all for this portfolio. See you, future me :) (hopefully developer ka na kung mabasa mo ni again.)  
 
+npm install 
+- to download all dependencies
+
+npm run dev
+- to run my website 
