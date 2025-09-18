@@ -16,7 +16,7 @@ export function Projects() {
     },
     {
       title: "LiveStock",
-      description: "LiveStock uses computer vision, aided with an IOT device to accurately predict the livestock's weight",
+      description: "LiveStock uses computer vision, aided with an IOT device to accurately predict the livestock's weight.",
       image: "/images/LiveStock.png?v=1",
       technologies: ["Flutter", "Dart", "Internet of Things", "AI/ML", "Mobile Application"],
       githubUrl: "https://github.com",
@@ -29,7 +29,31 @@ export function Projects() {
       technologies: ["HTML", "CSS", "PHP", "SqLite"],
       githubUrl: "https://github.com",
       liveUrl: "https://example.com"
-    }
+    },
+    {
+      title: "St Ignatius' Story",
+      description: "Educational/storytelling platform about the Catholic saint.",
+      image: "/images/StIgnatius.jpg?v=1",
+      technologies: ["HTML", "CSS", "JS"],
+      githubUrl: "https://github.com",
+      liveUrl: "https://example.com"
+    },
+    {
+      title: "Arc.Ai",
+      description: "Hierarchy-based file repository with AI.",
+      image: "/images/arcai.jpg?v=1",
+      technologies: ["HTML", "CSS", "Python", "Django", "PostgreSQL"],
+      githubUrl: "https://github.com",
+      liveUrl: "https://example.com"
+    },
+    {
+      title: "Quote and Bible Verse Generator.",
+      description: "Spiritual content generator for daily inspiration.",
+      image: "/images/QuoteGenerator.png?v=1",
+      technologies: ["HTML", "CSS"],
+      githubUrl: "https://github.com",
+      liveUrl: "https://example.com"
+    },
   ];
 
   return (
